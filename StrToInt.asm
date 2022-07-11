@@ -1,10 +1,7 @@
-TITLE Portfolio Project: Designing low-level I/O procedures     (Proj6_lilients.asm)
+TITLE Designing low-level I/O procedures
 
 ; Author: Sophia Lilienthal
 ; Last Modified: 12/4/21
-; OSU email address: lilients@oregonstate.edu
-; Course number/section: CS271 Section 400
-; Project Number: 6           Due Date: 12/5/21
 ; Description:  This program uses a mixture of macros and procedures to get 10 valid integers
 ;				(that will fit in a 32 byte register) one at a time from the user. Using Irvine's
 ;				ReadString and WriteString procedures only, the integers are read as strings and 
